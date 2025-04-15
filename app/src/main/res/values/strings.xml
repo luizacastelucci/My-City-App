@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">My-City-App</string>
+    <string name="list_fragment_label">São Paulo</string>
+    <string name="detail_fragment_label">Ideias de turismo</string>
+    <string name="subcategory_fragment_label">Lugares famosos</string>
+
+
+    <string name="museus">Museus</string>
+    <string name="parques">Parques</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="fast_foods">Fast Foods</string>
+    <string name="cafeterias">Cafeterias</string>
+    <string name="shopping">Shoppings</string>
+    <string name="lojas">Lojas</string>
+    <string name="academias">Academias</string>
+    <string name="igrejas">Igrejas</string>
+
+    <string name="museu1">Museu da Língua Portuguesa</string>
+    <string name="museu2">Museu da Independência</string>
+    <string name="museu3">Museu de Arte de São Paulo (MASP)</string>
+    <string name="museu4">Museu Catavento</string>
+    <string name="museu5">Museu Afro Brasil</string>
+
+    <string name="parque1">Vila Lobos</string>
+    <string name="parque2">Ibirapuera</string>
+    <string name="parque3">Parque Independência</string>
+    <string name="parque4">Jardim Botânico</string>
+    <string name="parque5">Parque Ecológico</string>
+
+    <string name="place_list_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum.</string>
+    <string name="place_detail_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+    </string>
+
+    <string name="saber_mais">Saber mais</string>
+
+    <string name="back_button">Voltar</string>
+
+</resources>
